@@ -25,3 +25,6 @@ for value in value_list:
             break
 
 print(sorted_list)
+
+# too much code and there were a few steps that could be simplified to one step
+

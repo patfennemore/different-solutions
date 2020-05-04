@@ -28,3 +28,5 @@ while len(unsorted_list) > 0:
     print("unsorted list is " + str(unsorted_list))
 
 print(sorted_list)
+
+# too much code and there were a few steps that could be simplified to one step

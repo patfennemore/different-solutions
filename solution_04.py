@@ -25,3 +25,5 @@ for tup in list(unsorted_list):
 
 print(unsorted_list)
 print(sorted_list)
+
+# too much code and there were a few steps that could be simplified to one step
